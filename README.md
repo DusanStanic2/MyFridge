@@ -62,7 +62,6 @@ Projekat je potrebno postaviti na školski web server. Svaki pojedinac ili tim �
 
 Upotreba ostalih tehnologija, biblioteka i API-a je opciona.
 
-Koristiti Trello sistem unutar tima i dodeliti pristup predmetnom nastavniku (prowebing@gmail.com i helenatmanojlovic@gmail.com). Tokom rada na projektu definisati zadatke i dodeliti ih članovima tima. Potrebne liste u Trello sistemu: Additional Documents (Info), Brainstorming, To do, Doing, Testing, Done, To be Archived. Opise zadataka možete pisati na srpskom jeziku.
 
 Svaki tim ili pojedinac treba da koristi Git VCS sistem (Version Control System) i zajedno sa njim neko hosting rešenje (GitHub, BitBucket, GitLab…). Dodeliti pristup predmetnom nastavniku (chole@vts.su.ac.rs, helena@vts.su.ac.rs). Tokom rada na projektu potrebno je postavljati programski kod na svoj Git repozitorijum.
 
