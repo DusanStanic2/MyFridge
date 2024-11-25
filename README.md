@@ -39,7 +39,6 @@ Kreirati bazu podataka pod imenom recipe i unutar nje tabele koje će zadovoljit
 
 Zahtevi i smernice
 
-
 Pored navedenih obaveznih funkcionalnosti studenti mogu dodati i neku svoju funkcionalnost koja će po njihovom mišljenju unaprediti projekat.
 
 Upotreba spoljašnjeg fajla sa JavaScript kodom je obavezna. Programski kod (promenljive, funkcije, objekte…) pisati na engleskom jeziku, koristiti komentare u kodu, držati se uputstva koje je dato u posebnom fajlu coding_style_guide_sr.pdf
@@ -58,17 +57,8 @@ provere kod registracije.
 
 Na stranicama gde se radi validacija podataka obavezno uraditi validaciju na klijentskoj i serverskoj strani.
 
-Projekat je potrebno postaviti na školski web server. Svaki pojedinac ili tim će dobiti svoje pristupne parametre putem e-maila.
-
 Upotreba ostalih tehnologija, biblioteka i API-a je opciona.
 
-
-Svaki tim ili pojedinac treba da koristi Git VCS sistem (Version Control System) i zajedno sa njim neko hosting rešenje (GitHub, BitBucket, GitLab…). Dodeliti pristup predmetnom nastavniku (chole@vts.su.ac.rs, helena@vts.su.ac.rs). Tokom rada na projektu potrebno je postavljati programski kod na svoj Git repozitorijum.
-
-Projekat se predaje u elektronskom obliku (programski kod, .sql fajlovi, i projektna dokumentacija). Dokumentacija se izrađuje prema datom šablonu. Sve je potrebno postaviti na svoj Git repozitorijum.
-
 Tokom realizacije projekta veliki naglasak treba da bude na sigurnosti i proveri unetih podataka.
-
-Mogu se koristiti BESPLATNI šabloni za Bootstrap 5, koji SE MORAJU MODIFIKOVATI ZA POTREBE PROJEKTA, ne možete koristi u potpunosti isti šablon. Ukoliko je korišćen šablon, navesti kao informaciju u dokumentaciji! Na web server se mogu postavljati samo besplatni materijali! Možete koristiti samo BESPLATNE fotografije (sopstvene ili preuzete sa sajtova poput www.freeimages.com i/ili www.unsplash.com ).
 
 Subotica, 24.02.2024.
